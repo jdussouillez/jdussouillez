@@ -7,7 +7,7 @@
 
 ### Projects
 
-- [monty-hall-simulator](monty-hall-simulator) - Java console app to run millions of [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) simulations with different strategies and analyze the results.
+- [monty-hall-simulator](https://github.com/monty-hall-simulator) - Java console app to run millions of [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) simulations with different strategies and analyze the results.
 
 #### Work in progress
 
