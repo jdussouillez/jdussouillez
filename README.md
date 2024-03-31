@@ -2,7 +2,7 @@
 
 - Lead developer at [HIFI FILTER](https://hifi-filter.com).
 - Living in the beautiful [Haut-Doubs](https://fr.wikipedia.org/wiki/Haut-Doubs)
-- Writing code since 2007 (mostly Java and Typescript)
+- Writing code since 2007 (mostly Java and Typescript now)
 - Full-time Linux user since 2016
 
 ### Projects
